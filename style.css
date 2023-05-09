@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    margin: 0 auto;
+    width: 1140px;
+}
+
+.stopwatch{
+    background-color: rgb(106, 106, 238);
+    background-size: 100%;
+}
